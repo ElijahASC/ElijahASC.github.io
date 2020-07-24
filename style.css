@@ -1,0 +1,12 @@
+body{
+    background-image: url("pexels-photo-932638.webp");
+    background-color: #cccccc;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    font-size: 58px;
+    color: rgb(19, 129, 231);
+}
