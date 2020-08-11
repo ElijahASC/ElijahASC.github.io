@@ -1,12 +1,121 @@
-body{
-    background-image: url("pexels-photo-932638.webp");
-    background-color: #cccccc;
-}
+ body{
+    background-color:#000000e0;
+    }
 h1{
     display: flex;
     justify-content: center;
-    align-items: center;
-    height: 500px;
-    font-size: 58px;
-    color: rgb(19, 129, 231);
+    margin-top: 220px;
+    height: 530px;
+    font-size: 90px;
+    color:#6235e9;
+    font-family: 'Source Sans Pro', sans-serif;
 }
+.first {
+    border-color:#6161dd;
+    text-align: center;
+    border-style:solid;
+    border-width:5px;
+    border-radius: 20px;
+    background-color: #c2c2ee;
+    margin-left: 330px;
+    margin-right: 330px;
+    margin-top: 4px;
+}
+h2 {
+    font-size: 35px;
+    font-family: 'Baloo Tamma 2', cursive;
+    color:#5321eb;
+}
+.about{
+    line-height: 2;
+    margin-right:100px;
+    margin-left:100px;
+    font-size: 20px;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+.second{
+    text-align: center;
+    color:#5321eb;
+    
+}
+hr{
+    margin-top: 100px;
+    border:8px solid #6161dd28;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.icon{
+    font-size: 50px;
+    position: absolute;
+    top: 0;
+    display: center;
+    margin-top: 364px;    
+}
+  #insta{
+    margin-left:315px;
+    cursor: pointer;
+    color:#846dc9;
+}
+#in{
+    margin-left:72px;
+    cursor: pointer; 
+    color:#846dc9;
+}
+#git{
+    margin-left:87px;
+    cursor: pointer; 
+    color:#846dc9;
+}
+
+#mail{
+    margin-left:87px;
+    cursor: pointer;
+    color:#846dc9;
+}
+
+#file{
+    margin-left:87px;
+    cursor: pointer;
+    color:#846dc9;
+}
+.s{
+    text-align: right;
+    margin-right: 272px;
+}
+.p{
+    text-align: left;
+    margin-left: 272px;
+    margin-top: -90px;
+}
+#insta:hover {
+    color: #bcb3d8;
+  }
+#mail:hover {
+    color: #bcb3d8;
+  }
+#file:hover {
+    color: #bcb3d8;
+  }
+#git:hover {
+    color: #bcb3d8;
+  }
+#in:hover {
+    color: #bcb3d8;
+  }
+  .sicon {
+      color: rgb(243, 243, 6);
+      font-size: 155px;
+      text-align: right;
+      margin-right: 246px;
+  }
+  /* .js{
+     color: rgb(243, 243, 6); 
+  }
+  .html{
+
+  }
+  .css{
+
+  }  */
